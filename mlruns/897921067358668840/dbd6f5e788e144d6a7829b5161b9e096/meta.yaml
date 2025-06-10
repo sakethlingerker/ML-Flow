@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML-Flow/mlruns/897921067358668840/dbd6f5e788e144d6a7829b5161b9e096/artifacts
+end_time: 1749544780434
+entry_point_name: ''
+experiment_id: '897921067358668840'
+lifecycle_stage: active
+run_id: dbd6f5e788e144d6a7829b5161b9e096
+run_name: thundering-crab-152
+run_uuid: dbd6f5e788e144d6a7829b5161b9e096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749544768803
+status: 3
+tags: []
+user_id: Saketh

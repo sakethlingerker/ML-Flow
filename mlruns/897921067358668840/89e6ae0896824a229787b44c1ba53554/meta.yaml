@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML-Flow/mlruns/897921067358668840/89e6ae0896824a229787b44c1ba53554/artifacts
+end_time: 1749545748875
+entry_point_name: ''
+experiment_id: '897921067358668840'
+lifecycle_stage: active
+run_id: 89e6ae0896824a229787b44c1ba53554
+run_name: adventurous-jay-861
+run_uuid: 89e6ae0896824a229787b44c1ba53554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749545736773
+status: 3
+tags: []
+user_id: Saketh
